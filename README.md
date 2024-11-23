@@ -1,7 +1,6 @@
 # Building the Backend of an E-Commerce Website
 
-1. Authenticate and Authorise a User --> Access Token
-2. 
+- Authenticate and Authorise a User --> Access Token
 
 #### Concept of Authentication and Authorisation
 - Authentication: Who am I?
@@ -27,4 +26,3 @@ Earlier, there was no security but later on, things started coming:
 
 3. Multifactor Authentication: Use multiple ways of authentication and authorisation.
 > Using username and password first and then OTP for the second time.
-
